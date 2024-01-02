@@ -30,7 +30,7 @@ def get_user_list(lines):
         username = ''.join(username_chars)
         username_list.append(username)
     return username_list
-
+# this is new change on 17:11 
 
 def get_url_list(lines):
     url_list = []
