@@ -7,6 +7,8 @@ def get_contents(path):
 
 # new user 
 
+
+# what changes are made !@ 
 def get_contributor_lines(contents):
     lines = []
     for line in contents:
