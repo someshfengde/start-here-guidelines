@@ -6,7 +6,7 @@ def get_contents(path):
     return contents
 
 # new user 
-
+# this is new change on 17:10 
 
 # what changes are made !@ 
 def get_contributor_lines(contents):
