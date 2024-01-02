@@ -5,6 +5,7 @@ def get_contents(path):
         contents = f.read().splitlines()
     return contents
 
+# new user 
 
 def get_contributor_lines(contents):
     lines = []
